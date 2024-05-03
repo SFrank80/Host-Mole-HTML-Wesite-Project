@@ -1,4 +1,6 @@
 
+![Host an HTML Website in Default VPC](https://github.com/SFrank80/Host-Mole-HTML-Wesite-Project/assets/129677565/bf4b4f26-37aa-436c-8cfd-a31ddaab7783)
+
 ---
 # Host an HTML Website on a single EC2 Instance in the default VPC
 
