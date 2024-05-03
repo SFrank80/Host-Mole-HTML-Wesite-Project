@@ -1,3 +1,5 @@
+![Alt-text](/Host an HTML Website in Default VPC.png)
+
 
 # Host an HTML Website on a single EC2 Instance in the default VPC
 
