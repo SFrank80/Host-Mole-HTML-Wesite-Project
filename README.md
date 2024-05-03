@@ -1,6 +1,6 @@
+![Alt-text](/Host an HTML Website in Default VPC.png)
 
-
-
+---
 # Host an HTML Website on a single EC2 Instance in the default VPC
 
 This project demonstrates how to host a static HTML web application on the Amazon Web Services (AWS) cloud platform. The architecture leverages various AWS services to ensure high availability, scalability, fault tolerance, and security.
