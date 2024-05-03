@@ -1,4 +1,4 @@
- ![Alt-text](/https://github.com/SFrank80/Host-Mole-HTML-Wesite-Project/blob/main/Host%20an%20HTML%20Website%20in%20Default%20VPC.png)
+
 ---
 # Host an HTML Website on a single EC2 Instance in the default VPC
 
